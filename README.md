@@ -38,7 +38,7 @@ graph TD
 ### 1. Clone the repository
 \`\`\`bash
 git clone <your-repo-link>
-cd "RAJESH PROJECT"
+cd "1"
 \`\`\`
 
 ### 2. Frontend Setup
