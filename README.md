@@ -66,4 +66,4 @@ node server.js
 - Working with real-world scenarios such as sales pipelines and role-based access control.
 
 ---
-**Developed with ❤️ by Adarsh Bandaru**
+**Developed with ❤️ by snehitha**
